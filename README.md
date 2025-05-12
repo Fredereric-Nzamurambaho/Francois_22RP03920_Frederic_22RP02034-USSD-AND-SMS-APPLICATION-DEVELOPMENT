@@ -8,6 +8,11 @@ Step 2 Improt Database
 
 Databaser Name: momo_app
 
-To Access App in post Man
+To Access App in post Man 
 ===========================
 http://localhost:80/USSDREV/App/index.php 
+
+**To Access App using AfricanTalk**
+=====================================
+1st: Go in cmd then write ngrok http 80
+2nd: Open African talking and use all step
