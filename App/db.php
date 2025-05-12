@@ -1,7 +1,6 @@
 <?php
 
 include 'util.php';
-
 try {
     
     $conn = new PDO("mysql:host=" . Util::$host . ";dbname=" . Util::$db, Util::$user, Util::$pass, [
