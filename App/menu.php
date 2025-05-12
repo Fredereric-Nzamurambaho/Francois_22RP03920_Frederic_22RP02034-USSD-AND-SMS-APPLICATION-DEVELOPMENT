@@ -8,7 +8,6 @@ class Menu {
     protected $sessionId;
     protected $phoneNumber;
     protected $conn;
-
     function __construct($text, $sessionId, $phoneNumber, $conn) {
         $this->text = $text;
         $this->sessionId = $sessionId;
